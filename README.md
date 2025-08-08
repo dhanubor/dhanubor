@@ -83,13 +83,13 @@ const dhanubor = {
 <div align="center">
 
 ### **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
 
 ### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postman,redis,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark" />
 
 ### **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,netlify,webpack&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlifyk&theme=dark" />
 
 </div>
 
@@ -265,7 +265,7 @@ graph LR
 
 ### **📞 Get In Touch**
 
-<a href="mailto:d.mondal.web@gmail.com?subject=Job Opportunity - Full Stack Developer&body=Hi Dhanu,%0D%0A%0D%0AI found your GitHub profile and I'm interested in discussing a potential opportunity.%0D%0A%0D%0ABest regards">
+<a href="dhanumondal098@gmail.com?subject=Job Opportunity - Full Stack Developer&body=Hi Dhanu,%0D%0A%0D%0AI found your GitHub profile and I'm interested in discussing a potential opportunity.%0D%0A%0D%0ABest regards">
   <img src="https://img.shields.io/badge/📧_Email_for_Job_Opportunities-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email for Jobs"/>
 </a>
 
@@ -273,7 +273,7 @@ graph LR
   <img src="https://img.shields.io/badge/📅_Schedule_a_Call-00A2FF?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=000000" alt="Schedule Call"/>
 </a>
 
-<a href="https://wa.me/8801XXXXXXXXX?text=Hi%20Dhanu,%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20project" target="_blank">
+<a href="https://wa.me/88016445399394?text=Hi%20Dhanu,%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20project" target="_blank">
   <img src="https://img.shields.io/badge/💬_WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
 </a>
 
@@ -281,7 +281,7 @@ graph LR
 
 ### **🌐 Professional Networks**
 
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="[https://linkedin.com/in/your-profil](https://www.linkedin.com/in/dhanu-bor-mondal-72788727b/)e" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/your-handle" target="_blank">
